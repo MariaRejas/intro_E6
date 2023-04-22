@@ -18,9 +18,10 @@ Realizado el 19 de abril de 2023
   6.3 [Videos de la señal](#id13)\
   6.4 [Ploteo de la señal en OpenBCI](#id14)\
   6.5 [Ploteo de la señal en Python](#id15)\
-  6.6 [Archivos](#id16)
-7. [Conclusiones](#id17)
-8. [Referencias](#id18)
+  6.6 [Interpretación de las gráficas](#id16)\
+  6.6 [Archivos](#id17)
+7. [Conclusiones](#id18)
+8. [Referencias](#id19)
 
 ### **Ploteo de la señal en tiempo y frecuencia en Python** <a name="id8"></a>
 ---
@@ -88,7 +89,7 @@ Figura 10.Colocación de los electrodos en el participante según  el sistema 10
 * Con los ojos cerrados
 * Con los ojos abiertos y cerrados cada 5 segundos
 * Descanso de 30 segundos
-* Tras realizar un problema matemático
+* Tras realizar un ejercicio complejo
 * Tras realizar un ejercicio simple
 
 ## **Video de la señal** <a name="id13"></a>
@@ -97,7 +98,7 @@ Figura 10.Colocación de los electrodos en el participante según  el sistema 10
 | <video src="https://user-images.githubusercontent.com/89707896/233675019-76a1d66c-2838-4e2a-88d4-9d079feb7924.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/89707896/233675136-332bb7ca-7135-46bc-baad-86459f931beb.mp4" width="200" /> |
 </div>
 
-| Problema matemático | Ejercicio simple |
+| Ejercicio complejo | Ejercicio simple |
 | ------------|  :------------------------------------: |
 |[![Alt text](https://user-images.githubusercontent.com/89707896/233679236-ffa95c49-1b5f-4ce8-aa9a-fc081d68bd91.png)](https://www.youtube.com/watch?v=R1aoqyflylQ)| <video src="https://user-images.githubusercontent.com/89707896/233675841-df32f803-5873-4b8d-9b2a-7d8b73eebed8.mp4" width="200" /> |
 </div>
@@ -114,39 +115,42 @@ a) Con los ojos cerrados
      <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233766532-87d26b98-41de-485b-a43e-1ea816f9bf19.jpeg">
 </p>
 
-Análisis:
-<p align="justify">
-En este la señal oscila su amplitud entre 620 y 430 con algunos picos que superan los 700. En su análisis por frecuencias encontramos una mayor amplitud entre 0-25 Hz.
-Los ritmos que destacan son principalmente los beta indicando una mayor actividad de la región parietal y frontal. Estos aparecen en estados de atención o en problemas cotidianos. Estos a la vez  se dividen en tres beta 1,2 y 3, sin embargo en la gráfica podemos observar que destacan las ondas Beta 2(15-22 Hz) lo que indicaría que el voluntario está atento a  cumplir la tarea. Al mismo tiempo, esta respuesta va acorde a la acción realizada ya que a pesar de lo simple del ejercicio el mantener los ojos abiertos permite mantener un estado de alerta y atención en una tarea específica. 
-</p>
-b)Con los ojos abiertos y cerrados cada 5 segundos
+b) Con los ojos abiertos y cerrados cada 5 segundos
 </p>
 <p align="center">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707127/233770954-2f5d0cc3-70ef-4bc0-a17d-a860826f79b1.jpeg">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233766561-310c06c0-8c28-4466-b2f5-8c9dcf0af332.jpeg">
-    
-
-     
-c)Tras realizar un problema matemático
+ </p>   
+  
+c) Tras realizar un ejercicio complejo
 </p>
 <p align="center">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707127/233771035-c368718b-f2ff-4001-b202-298c1d86a6fd.jpeg">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233766624-a48657ac-d4d7-4865-8779-f78acad29e2b.jpeg">
-     
-d)Tras realizar un ejercicio simple
+ </p>
+ 
+d) Tras realizar un ejercicio simple
 </p>
 <p align="center">
+    <img width="500" height="400" src="https://user-images.githubusercontent.com/89707127/233771054-3c1bd770-8cd2-47eb-abad-c6b3597fc6c0.jpeg">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233766597-d34e4430-1160-4f71-bf86-570f917f975e.jpeg">
-    
+</p>    
 
-<p align="justify">
-En el análisis por frecuencias encontramos una alta actividad en las frecuencias de 0.4-4 Hz y de 15 a 20 Hz lo que indicaría una mayor presencia de ondas delta y beta 2. La presencia de ondas beta 2 indicaría la alta actividad por parte del lóbulo frontal encargado de funciones cognitivas, al estar sometido a una tarea altamente compleja. Sin embargo, durante las experimentación el voluntario tampoco realizó el problema de forma completamente mental debido a que lo hizo hablando con voz alta. Asimismo, casi al final del ejercicio este fue interrumpido. A pesar de ello incluso en la gráfica Amplitud vs. Con el tiempo son visibles los picos de actividad debido a la pregunta compleja. 
-</p>
+## **Interpretación de las gráficas** <a name="id16"></a>
+a) Ojos cerrados vs ojos abiertos: Para analizar el procesamiento visual, las regiones de interés son el lóbulo frontal (F7, F8, Fp1 y Fp2) y occipital (O1 y O2) [1C]. El paso del estado de ojos cerrados (reposo) a otro con los ojos abiertos se denomina activación. Las características de las principales ondas en ambos estados se resume en la siguiente tabla [2C] [tC]:
+| Onda | PSD con ojos cerrados | PSD con ojos abiertos |
+| -----  |  :------: |  :-----: |
+| delta | mayor | menor |
+| theta | mayor | menor |
+| alpha | mayor | menor |
+| beta | menor | mayor |
+| gamma | - | - |
+</div>
 
 
+## **Archivos** <a name="id17"></a>
 
-
-## **Archivos** <a name="id16"></a>
-
-## **Conclusiones** <a name="id17"></a>
+## **Conclusiones** <a name="id18"></a>
 <p align="justify">
 -Para el análisis de las pruebas de ojos abierto,ojos cerrados y con estimulación luminosa:
 
