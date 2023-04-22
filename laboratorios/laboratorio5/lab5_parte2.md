@@ -146,7 +146,16 @@ a) Ojos cerrados vs ojos abiertos: Para analizar el procesamiento visual, las re
 | beta | menor | mayor |
 | gamma | - | - |
 </div>
+<p>
+<img width="500" height="400" src="https://user-images.githubusercontent.com/89707127/233773525-d2cf0096-fd0e-42ad-afaa-08bceeb9edba.png">
+<p>
+En la siguiente gráfica se compara y analiza la FFT de los canales involucrados en la percepción visual: 1 (Fp1), 2 (Fp2), 7 (O7) y 8 (O8) con ojos cerrados (EC) y abiertos (EO). 
+* Ondas delta (δ): Se observa una mayor densidad espectral de potencia en el canal 8 con ojos cerrados (color rojo).
+* Ondas theta (Ө): Se observa una mayor densidad espectral de potencia en el canal 8 con ojos cerrados (color rojo).
+* Ondas alpha (α): Se observa una mayor densidad espectral de potencia en el canal 8 con ojos cerrados (color rojo) y en el canal 2 con ojos cerrados (color anaranjado).
+* Ondas beta (β): Se observa un pico en el canal 8 con ojos abiertos (color plomo).
 
+Al cerrar los ojos, la actividad de las ondas delta indicaría una actividad cerebral similar al del tiempo de sueño, esto va acorde a la actividad, ya que al mantener los ojos cerrados se limitan el resto de estímulos y se induce a un estado similar a la del sueño. Al abrir los ojos, se genera una activación, lo cual se representa con un aumento en la actividad de la región occipital.
 
 ## **Archivos** <a name="id17"></a>
 
