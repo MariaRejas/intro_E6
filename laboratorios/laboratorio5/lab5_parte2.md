@@ -16,9 +16,8 @@ Realizado el 19 de abril de 2023
   6.1 [Conexión usada](#id11)\
   6.2 [Procedimiento](#id12)\
   6.3 [Videos de la señal](#id13)\
-  6.4 [Ploteo de la señal en OpenBCI](#id14)\
-  6.5 [Ploteo de la señal en Python](#id15)\
-  6.6 [Interpretación de las gráficas](#id16)\
+  6.4 [Ploteo de la señal en Python](#id15)\
+  6.5 [Interpretación de las gráficas](#id16)\
   6.6 [Archivos](#id17)
 7. [Conclusiones](#id18)
 8. [Referencias](#id19)
@@ -105,8 +104,6 @@ Figura 10.Colocación de los electrodos en el participante según  el sistema 10
 
 
 
-## **Ploteo de la señal en OpenBCI** <a name="id14"></a>
-
 ## **Ploteo de la señal en Python** <a name="id15"></a>
 
 a) Con los ojos cerrados
@@ -137,7 +134,9 @@ d) Tras realizar un ejercicio simple
 </p>    
 
 ## **Interpretación de las gráficas** <a name="id16"></a>
-a) Ojos cerrados vs ojos abiertos: Para analizar el procesamiento visual, las regiones de interés son el lóbulo frontal (F7, F8, Fp1 y Fp2) y occipital (O1 y O2) [15]. El paso del estado de ojos cerrados (reposo) a otro con los ojos abiertos se denomina activación. Las características de las principales ondas en ambos estados se resume en la siguiente tabla [15] [16]:
+<p align="justify">
+a) Ojos cerrados vs ojos abiertos: Para analizar el procesamiento visual, las regiones de interés son el lóbulo frontal (F7, F8, Fp1 y Fp2) y occipital (O1 y O2) [14]. El paso del estado de ojos cerrados (reposo) a otro con los ojos abiertos se denomina activación. Las características de las principales ondas en ambos estados se resume en la siguiente tabla [15] [16]:</p>
+
 | Onda | PSD con ojos cerrados | PSD con ojos abiertos |
 | -----  |  :------: |  :-----: |
 | delta | mayor | menor |
@@ -147,27 +146,29 @@ a) Ojos cerrados vs ojos abiertos: Para analizar el procesamiento visual, las re
 | gamma | - | - |
 </div>
 
-En la siguiente gráfica se compara y analiza la FFT de los canales involucrados en la percepción visual: 1 (Fp1), 2 (Fp2), 7 (O7) y 8 (O8) con ojos cerrados (EC) y abiertos (EO).</a> 
+<p align="justify">
+En la siguiente gráfica se compara y analiza la FFT de los canales involucrados en la percepción visual: 1 (Fp1), 2 (Fp2), 7 (O7) y 8 (O8) con ojos cerrados (EC) y abiertos (EO).</p> 
 
-<p>
-<img width="500" height="400" src="https://user-images.githubusercontent.com/89707127/233773525-d2cf0096-fd0e-42ad-afaa-08bceeb9edba.png">
+<p align="center">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707127/233773525-d2cf0096-fd0e-42ad-afaa-08bceeb9edba.png">
 <p>
      
 * Ondas delta (δ): Se observa una mayor densidad espectral de potencia en el canal 8 con ojos cerrados (color rojo).
 * Ondas theta (Ө): Se observa una mayor densidad espectral de potencia en el canal 8 con ojos cerrados (color rojo).
 * Ondas alpha (α): Se observa una mayor densidad espectral de potencia en el canal 8 con ojos cerrados (color rojo) y en el canal 2 con ojos cerrados (color anaranjado).
 * Ondas beta (β): Se observa un pico en el canal 8 con ojos abiertos (color plomo).
-     
-Al cerrar los ojos, la actividad de las ondas delta indicaría una actividad cerebral similar al del tiempo de sueño, esto va acorde a la actividad, ya que al mantener los ojos cerrados se limitan el resto de estímulos y se induce a un estado similar a la del sueño. Al abrir los ojos, se genera una activación, lo cual se representa con un aumento en la actividad de la región occipital (canal 8 EO), lo cual se corrobora con los resultados obtenidos en la gráfica anterior.
 
+<p align="justify">     
+Al cerrar los ojos, la actividad de las ondas delta indicaría una actividad cerebral similar al del tiempo de sueño, esto va acorde a la actividad, ya que al mantener los ojos cerrados se limitan el resto de estímulos y se induce a un estado similar a la del sueño. Al abrir los ojos, se genera una activación, lo cual se representa con un aumento en la actividad de la región occipital (canal 8 EO), lo cual se corrobora con los resultados obtenidos en la gráfica anterior.[17]
+</p>
      
-     
-b) Problema sencillo vs problema complejo: Resolver problemas requieren numerosas operaciones cognitivas, que incluyen compresión, razonamiento y cálculo. Las regiones asociadas para analizar su correspondiente actividad cerebral son las cortezas parietales (P3, P4), temporales (T3, T4)y prefrontales (F3, F4).
+<p align="justify">     
+b) Problema sencillo vs problema complejo: Resolver problemas requieren numerosas operaciones cognitivas, que incluyen compresión, razonamiento y cálculo. Las regiones asociadas para analizar su correspondiente actividad cerebral son las cortezas parietales (P3, P4), temporales (T3, T4)y prefrontales (F3, F4).</p>
+<p align="justify">
+En la siguiente gráfica se compara y analiza la FFT de los canales involucrados en operaciones cognitivas: 1 (F3), 2 (F4), 3 (T3), 4 (T4), 5 (P3) Y 6 (P4) al realizar un problema sencillo (PS) y complejo (PC).</p> 
 
-En la siguiente gráfica se compara y analiza la FFT de los canales involucrados en operaciones cognitivas: 1 (F3), 2 (F4), 3 (T3), 4 (T4), 5 (P3) Y 6 (P4) al realizar un problema sencillo (PS) y complejo (PC).</a> 
-
-<p>
-<img width="500" height="400" src="https://user-images.githubusercontent.com/89707127/233775954-d82699f7-9719-4888-a07c-0f21b15023d7.png">
+<p align="center">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707127/233775954-d82699f7-9719-4888-a07c-0f21b15023d7.png">
 <p>
      
 * Ondas delta (δ): Se observa una mayor densidad espectral de potencia en el canal 4 al efectuar un ejercicio sencillo (color rojo).
@@ -175,30 +176,34 @@ En la siguiente gráfica se compara y analiza la FFT de los canales involucrados
 * Ondas alpha (α): Se observa una mayor densidad espectral de potencia en el canal 2 al efectuar un ejercicio complejo (color plomo).
 * Ondas beta (β): Se observa una mayor densidad espectral de potencia en el canal 4 al efectuar un ejercicio sencillo (color rojo).
      
-Asimismo, se observa:
-     
+Asimismo, se observa:   
 * Canal 1: Se observa una mayor densidad espectral de potencia de las ondas theta al efectuar un ejercicio complejo que uno sencillo (Ver que la línea rosada (Ch1PC) tiene valores más altos que la línea turquesa (Ch1PS) en el rango de frecuencias de la onda theta (4-8Hz)).
 * Canal 5: Se observa una mayor densidad espectral de potencia de las ondas alpha al efectuar un ejercicio complejo que uno sencillo (Ver que la línea lila (Ch5PC) tiene valores más altos que la línea turquesa oscura (Ch5PS) en el rango de frecuencias de la onda alpha (8-13Hz)).
 * Canal 4: Se observa una menor densidad espectral de potencia en las ondas beta al efectuar un ejercicio complejo que uno sencillo (Ver que la línea celeste (Ch4PC) tiene valores más bajos que la línea roja (Ch4PS) en el rango de frecuencias de la onda beta (13-30Hz)).
+</p>
      
-Tras la realizar un ejercicio, en el análisis por frecuencias se identificó una mayor presencia de ondas delta y beta 2. La presencia de ondas beta 2 indicaría la alta actividad por parte del lóbulo frontal encargado de funciones cognitivas, al estar sometido a una tarea altamente compleja. Sin embargo, durante las experimentación el voluntario tampoco realizó el problema de forma completamente mental debido a que lo hizo hablando con voz alta. Asimismo, casi al final del ejercicio este fue interrumpido.
-     
-Además, en el estudio "EEG correlation during the solving of simple and complex logical–mathematical problems", del cual se tomó como referencia los ejercicios sencillos y complejos presentaron resultados muy similares al análisis anterior para el canal 1 (F3), 5 (P3) y 4 (T4) [17].     
+<p align="justify">     
+Tras la realizar un ejercicio, en el análisis por frecuencias se identificó una mayor presencia de ondas delta y beta 2. La presencia de ondas beta 2 indicaría la alta actividad por parte del lóbulo frontal encargado de funciones cognitivas, al estar sometido a una tarea altamente compleja. Sin embargo, durante las experimentación el voluntario tampoco realizó el problema de forma completamente mental debido a que lo hizo hablando con voz alta. Asimismo, casi al final del ejercicio este fue interrumpido.</p>
+ 
+<p align="justify"> 
+Además, en el estudio "EEG correlation during the solving of simple and complex logical–mathematical problems", del cual se tomó como referencia los ejercicios sencillos y complejos presentaron resultados muy similares al análisis anterior para el canal 1 (F3), 5 (P3) y 4 (T4) [18].</p>     
      
 ## **Archivos** <a name="id17"></a>
-
+Se encuentran en la carpeta del laboratorio 5.
+#
+     
 ## **Conclusiones** <a name="id18"></a>
 <p align="justify">
 -Para el análisis de las pruebas de ojos abierto,ojos cerrados y con estimulación luminosa:
 
 Conclusión :
-
+<p align="justify">
 -Durante la prueba de estimulación luminosa se puede apreciar que las ondas alfa disminuyen cuando los ojos están abiertos o expuestos a una fuente de luz ,en cambio cuando están cerrados esta banda suele aumentarse.Así mismo existen medios difusores que alteraron la señal como la estimulación de la retina o una fuente no fisiológico como un electrodo frontopolar de alta impedancia [11].</p>
 </p>
 
-<p align="justify">
--Para las pruebas de memoria y razonamiento:
 
+-Para las pruebas de memoria y razonamiento:
+<p align="justify">
 Conclusión:
 Estudios previos han demostrado la ocurrencia  de  oscilaciones lentas (4Hz a 7 Hz) y rapidas (20 Hz y 30 Hz) en las posiciones de los electrodos frontal y prefrontal durante el procesamiento de la memoria ,lo cual se puede apreciar en la gráficas ya que se obtuvieron medidas de frecuencia alrededor de  15- 22 Hz .Así mismo durante este registro EEG se puede observar que se dio un aumento en las bandas theta y gamma en FP1 ,lo cual está relacionado con la memorización de palabras,ya que  estudios fisiológicos se han demostrado que las altas frecuencias en los rangos beta y gamma ,(frecuencias de 15 a 30 y 30 a 60 Hz) ,está relacionado a un estado de atención enfocada.Finalmente podemos ver que todo esto indica la participación de la corteza prefrontal durante el procesamiento de la información [12].</p>
 </p>
@@ -221,4 +226,5 @@ Estudios previos han demostrado la ocurrencia  de  oscilaciones lentas (4Hz a 7 
 14. Millán, E., Jiménez, C., Ospina, D., & Henao, O. (2015). Caracterización del sensor EEG BR8 Plus: Verificación del estado base y los ritmos beta y theta utilizando la prueba Stroop de atención visual. Avances en Ingeniería, 172.
 15. B. Vermani, N. Hooda, and N. Kumar, “Parametric evaluation of EEG signal during eyes close and Eyes open state,” 2015 Annual IEEE India Conference (INDICON), 2015. 
 16. “Changes in EEG when moving from an eyes-closed to an eyes-open ... - nal,” Changes in EEG when moving from an eyes-closed to an eyes-open resting condition. [Online]. Available: https://dspace.nal.gov.au/xmlui/bitstream/handle/123456789/1084/Development%20of%20frontal%20EEG%20differences%20between%20eyes-closed%20and%20eyes-open%20resting%20conditions%20in%20children%20data%20from%20a%20single-channel%20dry-sensor%20portable%20device.pdf?sequence=1. [Accessed: 22-Apr-2023]. 
-17. J. Molina del Río, M. A. Guevara, M. Hernández González, R. M. Hidalgo Aguirre, and M. A. Cruz Aguilar, “EEG correlation during the solving of simple and complex logical–mathematical problems,” Cognitive, Affective, &amp; Behavioral Neuroscience, vol. 19, no. 4, pp. 1036–1046, 2019. 
+17. 
+18. J. Molina del Río, M. A. Guevara, M. Hernández González, R. M. Hidalgo Aguirre, and M. A. Cruz Aguilar, “EEG correlation during the solving of simple and complex logical–mathematical problems,” Cognitive, Affective, &amp; Behavioral Neuroscience, vol. 19, no. 4, pp. 1036–1046, 2019. 
