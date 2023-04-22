@@ -29,11 +29,6 @@ a) Registro de ojos abiertos:
 <p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233435534-127743c3-b838-42a4-9e89-a6ecc3f1d1f3.png">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233763304-2fba7e15-52e9-4112-859b-862c22d6b595.jpeg">
-</p>
-
-Análisis:
-En este la señal oscila su amplitud entre 600 y 425.Se puede apreciar los ritmos alpha ,ya que estas aparecen durante una conciencia relajada ,sin prestar ninguna atención o concentración.Así mismo esta se encuentra en un rango de 8 a 13 Hz,con una forma sinusoidal y disminuye cuando los ojos están abiertos que cerrados [14].Lo cual se puede observar el gráfico comparativo en las primeras 10 frecuencias.
-</p>
 
 b) Registro de ojos cerrado:
 <p align="center">
