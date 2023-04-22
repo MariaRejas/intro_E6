@@ -158,8 +158,31 @@ En la siguiente gráfica se compara y analiza la FFT de los canales involucrados
 * Ondas alpha (α): Se observa una mayor densidad espectral de potencia en el canal 8 con ojos cerrados (color rojo) y en el canal 2 con ojos cerrados (color anaranjado).
 * Ondas beta (β): Se observa un pico en el canal 8 con ojos abiertos (color plomo).
      
-Al cerrar los ojos, la actividad de las ondas delta indicaría una actividad cerebral similar al del tiempo de sueño, esto va acorde a la actividad, ya que al mantener los ojos cerrados se limitan el resto de estímulos y se induce a un estado similar a la del sueño. Al abrir los ojos, se genera una activación, lo cual se representa con un aumento en la actividad de la región occipital.
+Al cerrar los ojos, la actividad de las ondas delta indicaría una actividad cerebral similar al del tiempo de sueño, esto va acorde a la actividad, ya que al mantener los ojos cerrados se limitan el resto de estímulos y se induce a un estado similar a la del sueño. Al abrir los ojos, se genera una activación, lo cual se representa con un aumento en la actividad de la región occipital (canal 8 EO), lo cual se corrobora con los resultados obtenidos en la gráfica anterior.
 
+b) Problema sencillo vs problema complejo: Resolver problemas requieren numerosas operaciones cognitivas, que incluyen compresión, razonamiento y cálculo. Las regiones asociadas para analizar su correspondiente actividad cerebral son las cortezas parietales (P3, P4), temporales (T3, T4)y prefrontales (F3, F4).
+
+En la siguiente gráfica se compara y analiza la FFT de los canales involucrados en operaciones cognitivas: 1 (F3), 2 (F4), 3 (T3), 4 (T4), 5 (P3) Y 6 (P4) al realizar un ejercicio sencillo y complejo (EO).</a> 
+
+<p>
+<img width="500" height="400" src="https://user-images.githubusercontent.com/89707127/233775954-d82699f7-9719-4888-a07c-0f21b15023d7.png">
+<p>
+     
+* Ondas delta (δ): Se observa una mayor densidad espectral de potencia en el canal 4 al efectuar un ejercicio sencillo (color rojo).
+* Ondas theta (Ө): Se observa una mayor densidad espectral de potencia en el canal 4 al efectuar un ejercicio sencillo (color rojo).
+* Ondas alpha (α): Se observa una mayor densidad espectral de potencia en el canal 2 al efectuar un ejercicio complejo (color plomo).
+* Ondas beta (β): Se observa una mayor densidad espectral de potencia en el canal 4 al efectuar un ejercicio sencillo (color rojo).
+     
+Asimismo, se observa:
+     
+* Canal 1: Se observa una mayor densidad espectral de potencia de las ondas theta al efectuar un ejercicio complejo que uno sencillo (Ver que la línea rosada (Ch1PC) tiene valores más altos que la línea turquesa (Ch1PS) en el rango de frecuencias de la onda theta (4-8Hz)).
+* Canal 5: Se observa una mayor densidad espectral de potencia de las ondas alpha al efectuar un ejercicio complejo que uno sencillo (Ver que la línea lila (Ch5PC) tiene valores más altos que la línea turquesa oscura (Ch5PS) en el rango de frecuencias de la onda alpha (8-13Hz)).
+* Canal 4: Se observa una menor densidad espectral de potencia en las ondas beta al efectuar un ejercicio complejo que uno sencillo (Ver que la línea celeste (Ch4PC) tiene valores más bajos que la línea roja (Ch4PS) en el rango de frecuencias de la onda beta (13-30Hz)).
+     
+Tras la realizar un ejercicio, en el análisis por frecuencias se identificó una mayor presencia de ondas delta y beta 2. La presencia de ondas beta 2 indicaría la alta actividad por parte del lóbulo frontal encargado de funciones cognitivas, al estar sometido a una tarea altamente compleja. Sin embargo, durante las experimentación el voluntario tampoco realizó el problema de forma completamente mental debido a que lo hizo hablando con voz alta. Asimismo, casi al final del ejercicio este fue interrumpido.
+     
+Además, en el estudio "EEG correlation during the solving of simple and complex logical–mathematical problems", del cual se tomó como referencia los ejercicios sencillos y complejos presentaron resultados muy similares al análisis anterior para el canal 1 (F3), 5 (P3) y 4 (T4).     
+     
 ## **Archivos** <a name="id17"></a>
 
 ## **Conclusiones** <a name="id18"></a>
