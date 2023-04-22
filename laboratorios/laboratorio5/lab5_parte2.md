@@ -32,7 +32,7 @@ a) Registro de ojos abiertos:
 </p>
 
 Análisis:
-En este la señal oscila su amplitud entre 600 y 425.
+En este la señal oscila su amplitud entre 600 y 425.Se puede apreciar los ritmos alpha ,ya que estas aparecen durante una conciencia relajada ,sin prestar ninguna atención o concentración.Así mismo esta se encuentra en un rango de 8 a 13 Hz,con una forma sinusoidal y disminuye cuando los ojos están abiertos que cerrados [14].Lo cual se puede observar el gráfico comparativo en las primeras 10 frecuencias.
 </p>
 
 b) Registro de ojos cerrado:
@@ -183,3 +183,4 @@ Estudios previos han demostrado la ocurrencia  de  oscilaciones lentas (4Hz a 7 
 11. U. Modi and P. Hwang, “6. Frontopolar sharp potentials,” Clin. Neurophysiol., vol. 127, no. 4, pp. e162–e163, 2016.
 12. B. Schack, N. Vath, H. Petsche, H.-G. Geissler, and E. Möller, “Phase-coupling of theta-gamma EEG rhythms during short-term memory processing,” Int. J. Psychophysiol., vol. 44, no. 2, pp. 143–163, 2002.
 13. A. Aldridge et al ., "Electroencefalogramas (EEG) accesibles: una revisión comparativa con los auriculares Ultracortex Mark IV de OpenBCI", 29.° Congreso Internacional Radioelektronika (RADIOELEKTRONIKA) de 2019 , Pardubice, República Checa, 2019, págs. 1 a 6, doi: 10.1109 /RADIOELEK.2019.8733482.
+14. Millán, E., Jiménez, C., Ospina, D., & Henao, O. (2015). Caracterización del sensor EEG BR8 Plus: Verificación del estado base y los ritmos beta y theta utilizando la prueba Stroop de atención visual. Avances en Ingeniería, 172.
