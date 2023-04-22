@@ -41,13 +41,6 @@ b) Registro de ojos cerrado:
      <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233763335-c48152dd-90c8-4bdd-a2a1-851dafbb2b7c.jpeg">
 </p>
 
-
-Análisis:
-<p align="justify">
-En este la señal oscila su amplitud entre 620 y 430 con algunos picos que superan los 700. En su análisis por frecuencias encontramos una mayor amplitud entre 0-25 Hz.
-Los ritmos que destacan son principalmente los beta indicando una mayor actividad de la región parietal y frontal. Estos aparecen en estados de atención o en problemas cotidianos. Estos a la vez  se dividen en tres beta 1,2 y 3, sin embargo en la gráfica podemos observar que destacan las ondas Beta 2(15-22 Hz) lo que indicaría que el voluntario está atento a  cumplir la tarea. Al mismo tiempo, esta respuesta va acorde a la acción realizada ya que a pesar de lo simple del ejercicio el mantener los ojos abiertos permite mantener un estado de alerta y atención en una tarea específica. 
-</p>
-
 </p>
 <p align="center">
  <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233763485-4c853f4b-4edf-4d48-aa31-001d6076bb55.jpeg">
@@ -95,11 +88,6 @@ e) Registro de razonamiento de un problema matemático
 
 </p>
 <p align="justify">
-
-En este caso la señal varía su amplitud entre 450 y 650 ciertos picos de 700 o superiores y valles menores a 300. 
-</p>
-En el análisis por frecuencias encontramos una alta actividad en las frecuencias de 0.4-4 Hz y de 15 a 20 Hz lo que indicaría una mayor presencia de ondas delta y beta 2. La presencia de ondas beta 2 indicaría la alta actividad por parte del lóbulo frontal encargado de funciones cognitivas, al estar sometido a una tarea altamente compleja. Sin embargo, durante las experimentación el voluntario tampoco realizó el problema de forma completamente mental debido a que lo hizo hablando con voz alta. Asimismo, casi al final del ejercicio este fue interrumpido. A pesar de ello incluso en la gráfica Amplitud vs. Con el tiempo son visibles los picos de actividad debido a la pregunta compleja. 
-</p>
 
 ### **Archivos** <a name="id9"></a>
 Se encuentran en la carpeta del laboratorio 5.
@@ -149,6 +137,26 @@ Figura 10.Colocación de los electrodos en el participante según  el sistema 10
 ## **Ploteo de la señal en OpenBCI** <a name="id14"></a>
 
 ## **Ploteo de la señal en Python** <a name="id15"></a>
+
+a)Con los ojos cerrados
+</p>
+Análisis:
+<p align="justify">
+En este la señal oscila su amplitud entre 620 y 430 con algunos picos que superan los 700. En su análisis por frecuencias encontramos una mayor amplitud entre 0-25 Hz.
+Los ritmos que destacan son principalmente los beta indicando una mayor actividad de la región parietal y frontal. Estos aparecen en estados de atención o en problemas cotidianos. Estos a la vez  se dividen en tres beta 1,2 y 3, sin embargo en la gráfica podemos observar que destacan las ondas Beta 2(15-22 Hz) lo que indicaría que el voluntario está atento a  cumplir la tarea. Al mismo tiempo, esta respuesta va acorde a la acción realizada ya que a pesar de lo simple del ejercicio el mantener los ojos abiertos permite mantener un estado de alerta y atención en una tarea específica. 
+</p>
+b)Con los ojos abiertos y cerrados cada 5 segundos
+</p>
+c)Tras realizar un problema matemático
+</p>
+d)Tras realizar un ejercicio simple
+</p>
+<p align="justify">
+En el análisis por frecuencias encontramos una alta actividad en las frecuencias de 0.4-4 Hz y de 15 a 20 Hz lo que indicaría una mayor presencia de ondas delta y beta 2. La presencia de ondas beta 2 indicaría la alta actividad por parte del lóbulo frontal encargado de funciones cognitivas, al estar sometido a una tarea altamente compleja. Sin embargo, durante las experimentación el voluntario tampoco realizó el problema de forma completamente mental debido a que lo hizo hablando con voz alta. Asimismo, casi al final del ejercicio este fue interrumpido. A pesar de ello incluso en la gráfica Amplitud vs. Con el tiempo son visibles los picos de actividad debido a la pregunta compleja. 
+</p>
+
+
+
 
 ## **Archivos** <a name="id16"></a>
 
