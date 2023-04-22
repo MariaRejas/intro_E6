@@ -137,7 +137,7 @@ d) Tras realizar un ejercicio simple
 </p>    
 
 ## **Interpretación de las gráficas** <a name="id16"></a>
-a) Ojos cerrados vs ojos abiertos: Para analizar el procesamiento visual, las regiones de interés son el lóbulo frontal (F7, F8, Fp1 y Fp2) y occipital (O1 y O2) [1C]. El paso del estado de ojos cerrados (reposo) a otro con los ojos abiertos se denomina activación. Las características de las principales ondas en ambos estados se resume en la siguiente tabla [2C] [tC]:
+a) Ojos cerrados vs ojos abiertos: Para analizar el procesamiento visual, las regiones de interés son el lóbulo frontal (F7, F8, Fp1 y Fp2) y occipital (O1 y O2) [15]. El paso del estado de ojos cerrados (reposo) a otro con los ojos abiertos se denomina activación. Las características de las principales ondas en ambos estados se resume en la siguiente tabla [15] [16]:
 | Onda | PSD con ojos cerrados | PSD con ojos abiertos |
 | -----  |  :------: |  :-----: |
 | delta | mayor | menor |
@@ -183,7 +183,7 @@ Asimismo, se observa:
      
 Tras la realizar un ejercicio, en el análisis por frecuencias se identificó una mayor presencia de ondas delta y beta 2. La presencia de ondas beta 2 indicaría la alta actividad por parte del lóbulo frontal encargado de funciones cognitivas, al estar sometido a una tarea altamente compleja. Sin embargo, durante las experimentación el voluntario tampoco realizó el problema de forma completamente mental debido a que lo hizo hablando con voz alta. Asimismo, casi al final del ejercicio este fue interrumpido.
      
-Además, en el estudio "EEG correlation during the solving of simple and complex logical–mathematical problems", del cual se tomó como referencia los ejercicios sencillos y complejos presentaron resultados muy similares al análisis anterior para el canal 1 (F3), 5 (P3) y 4 (T4).     
+Además, en el estudio "EEG correlation during the solving of simple and complex logical–mathematical problems", del cual se tomó como referencia los ejercicios sencillos y complejos presentaron resultados muy similares al análisis anterior para el canal 1 (F3), 5 (P3) y 4 (T4) [17].     
      
 ## **Archivos** <a name="id17"></a>
 
@@ -219,3 +219,6 @@ Estudios previos han demostrado la ocurrencia  de  oscilaciones lentas (4Hz a 7 
 12. B. Schack, N. Vath, H. Petsche, H.-G. Geissler, and E. Möller, “Phase-coupling of theta-gamma EEG rhythms during short-term memory processing,” Int. J. Psychophysiol., vol. 44, no. 2, pp. 143–163, 2002.
 13. A. Aldridge et al ., "Electroencefalogramas (EEG) accesibles: una revisión comparativa con los auriculares Ultracortex Mark IV de OpenBCI", 29.° Congreso Internacional Radioelektronika (RADIOELEKTRONIKA) de 2019 , Pardubice, República Checa, 2019, págs. 1 a 6, doi: 10.1109 /RADIOELEK.2019.8733482.
 14. Millán, E., Jiménez, C., Ospina, D., & Henao, O. (2015). Caracterización del sensor EEG BR8 Plus: Verificación del estado base y los ritmos beta y theta utilizando la prueba Stroop de atención visual. Avances en Ingeniería, 172.
+15. B. Vermani, N. Hooda, and N. Kumar, “Parametric evaluation of EEG signal during eyes close and Eyes open state,” 2015 Annual IEEE India Conference (INDICON), 2015. 
+16. “Changes in EEG when moving from an eyes-closed to an eyes-open ... - nal,” Changes in EEG when moving from an eyes-closed to an eyes-open resting condition. [Online]. Available: https://dspace.nal.gov.au/xmlui/bitstream/handle/123456789/1084/Development%20of%20frontal%20EEG%20differences%20between%20eyes-closed%20and%20eyes-open%20resting%20conditions%20in%20children%20data%20from%20a%20single-channel%20dry-sensor%20portable%20device.pdf?sequence=1. [Accessed: 22-Apr-2023]. 
+17. J. Molina del Río, M. A. Guevara, M. Hernández González, R. M. Hidalgo Aguirre, and M. A. Cruz Aguilar, “EEG correlation during the solving of simple and complex logical–mathematical problems,” Cognitive, Affective, &amp; Behavioral Neuroscience, vol. 19, no. 4, pp. 1036–1046, 2019. 
