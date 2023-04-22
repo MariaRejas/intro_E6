@@ -28,8 +28,9 @@ Realizado el 19 de abril de 2023
 a) Registro de ojos abiertos:
 <p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233435534-127743c3-b838-42a4-9e89-a6ecc3f1d1f3.png">
-     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233439133-4e5b1aa6-027c-4258-bbea-e636d4a65388.png">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233763304-2fba7e15-52e9-4112-859b-862c22d6b595.jpeg">
 </p>
+
 Análisis:
 En este la señal oscila su amplitud entre 600 y 425.
 </p>
@@ -37,8 +38,10 @@ En este la señal oscila su amplitud entre 600 y 425.
 b) Registro de ojos cerrado:
 <p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233436145-77ea47c1-b1b0-41c0-8a16-e9290dcd5a55.png">
-     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233457335-b51bbe04-831c-4394-97a4-00148d1a14d1.png">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233763335-c48152dd-90c8-4bdd-a2a1-851dafbb2b7c.jpeg">
 </p>
+
+
 Análisis:
 <p align="justify">
 En este la señal oscila su amplitud entre 620 y 430 con algunos picos que superan los 700. En su análisis por frecuencias encontramos una mayor amplitud entre 0-25 Hz.
@@ -46,12 +49,16 @@ Los ritmos que destacan son principalmente los beta indicando una mayor activida
 </p>
 
 </p>
-
+<p align="center">
+ <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233763485-4c853f4b-4edf-4d48-aa31-001d6076bb55.jpeg">
+ 
 c) Registro de ojos con exposición a luz (linterna)
 <p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233436743-12f53bdd-2ea8-4449-b317-1197f3d16200.png">
-     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233440545-7a638e07-4b30-491a-b5b3-cf2903a15524.png">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233763380-f1faafe7-5e87-41fd-9f35-ddd5150a2756.jpeg">
 </p>
+
+
 <p align="justify">
 Análisis:
 </p>
@@ -63,10 +70,17 @@ En este caso las frecuencias destacan en los rangos de 0.2-4 Hz y de 12-15 Hz, s
 Asimismo, en el ejercicio uno de los ojos se mantuvo tapado lo que explicaría la presencia de ondas Delta. Mientras que la información recibida desde el ojo abierto aumentaría la actividad frontal y parietal al estar sometido a un estado de excitación o ansiedad, este estado se vería representado por la luz de la linterna.
 </p>
 
+<p align="center">
+ <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233763881-8cdec303-1e94-4193-b209-f20286ca6f42.jpeg">
+ <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233763913-ffdca45a-de8a-4126-bb1b-017745e773da.jpeg">
+
 
 d) Registro de memoria
 <p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233437078-a52679d2-54c3-4a41-82e1-2f9a68aba8e8.png">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233763413-e948cf34-8c39-49cf-96a5-f846f209657d.jpeg">
+    
+
 </p>
 <p align="justify">
 Análisis:
@@ -76,7 +90,9 @@ En este la amplitud osciló entre 450 Y 600 con picos que superan los 650 .Mient
 e) Registro de razonamiento de un problema matemático
 <p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233438470-38edfe1e-7f6b-4ab0-9307-37dd809a14c6.png">
-     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233441116-6d0dc378-c755-4574-a05f-2dd79b3852f9.png">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233763444-0e951533-12d5-486f-9fe5-1211fc59712b.jpeg">
+     
+
 </p>
 <p align="justify">
 
