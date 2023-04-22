@@ -160,9 +160,11 @@ En la siguiente gráfica se compara y analiza la FFT de los canales involucrados
      
 Al cerrar los ojos, la actividad de las ondas delta indicaría una actividad cerebral similar al del tiempo de sueño, esto va acorde a la actividad, ya que al mantener los ojos cerrados se limitan el resto de estímulos y se induce a un estado similar a la del sueño. Al abrir los ojos, se genera una activación, lo cual se representa con un aumento en la actividad de la región occipital (canal 8 EO), lo cual se corrobora con los resultados obtenidos en la gráfica anterior.
 
+     
+     
 b) Problema sencillo vs problema complejo: Resolver problemas requieren numerosas operaciones cognitivas, que incluyen compresión, razonamiento y cálculo. Las regiones asociadas para analizar su correspondiente actividad cerebral son las cortezas parietales (P3, P4), temporales (T3, T4)y prefrontales (F3, F4).
 
-En la siguiente gráfica se compara y analiza la FFT de los canales involucrados en operaciones cognitivas: 1 (F3), 2 (F4), 3 (T3), 4 (T4), 5 (P3) Y 6 (P4) al realizar un ejercicio sencillo y complejo (EO).</a> 
+En la siguiente gráfica se compara y analiza la FFT de los canales involucrados en operaciones cognitivas: 1 (F3), 2 (F4), 3 (T3), 4 (T4), 5 (P3) Y 6 (P4) al realizar un problema sencillo (PS) y complejo (PC).</a> 
 
 <p>
 <img width="500" height="400" src="https://user-images.githubusercontent.com/89707127/233775954-d82699f7-9719-4888-a07c-0f21b15023d7.png">
