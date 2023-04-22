@@ -46,7 +46,7 @@ c) Registro de ojos con exposición a luz (linterna)
      <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233763380-f1faafe7-5e87-41fd-9f35-ddd5150a2756.jpeg">
 </p>
 
-d) Registro de memoria
+d) Registro del ejercicio de memoria
 <p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233437078-a52679d2-54c3-4a41-82e1-2f9a68aba8e8.png">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233763413-e948cf34-8c39-49cf-96a5-f846f209657d.jpeg">
