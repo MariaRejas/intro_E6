@@ -68,7 +68,7 @@ Se encuentran en la carpeta del laboratorio 5.
 
 ## **Conexión usada** <a name="id11"></a>
 <p align="justify">
-La colocación de los 16 electrodos está de acuerdo con la configuración del sistema 10-20, por lo cual la ubicación es la siguiente: AF3, AF4, F7, F3, F4, F8, T7, C3,C4, T8, P7, P3, P4, P8, O1, O2 como se indica con nodos coloreados en la Fig. 9.Así mismo los electrodos de referencia (barra de resistencia superficial - SRB) y de tierra (Bias) se colocaron en la oreja izquierda y derecha, respectivamente. Los headsets Mark IV de 16 canales funcionaron a una frecuencia de muestreo de 125 Hz.</p>
+La colocación de los 16 electrodos está de acuerdo con la configuración del sistema 10-20, por lo cual la ubicación es la siguiente: AF3, AF4, F7, F3, F4, F8, T7, C3,C4, T8, P7, P3, P4, P8, O1, O2 como se indica con nodos coloreados en la Fig. 9. Asimismo, los electrodos de referencia (barra de resistencia superficial - SRB) y de tierra (Bias) se colocaron en la oreja izquierda y derecha, respectivamente. Los headsets Mark IV de 16 canales funcionaron a una frecuencia de muestreo de 125 Hz.</p>
 <p align="center">
      <img width="400" height="300" src="https://user-images.githubusercontent.com/89707896/233443718-3bb5e437-ca15-4c20-9b96-161e88d367a1.png">
 </p>
