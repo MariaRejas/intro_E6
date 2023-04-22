@@ -226,5 +226,5 @@ Estudios previos han demostrado la ocurrencia  de  oscilaciones lentas (4Hz a 7 
 14. Millán, E., Jiménez, C., Ospina, D., & Henao, O. (2015). Caracterización del sensor EEG BR8 Plus: Verificación del estado base y los ritmos beta y theta utilizando la prueba Stroop de atención visual. Avances en Ingeniería, 172.
 15. B. Vermani, N. Hooda, and N. Kumar, “Parametric evaluation of EEG signal during eyes close and Eyes open state,” 2015 Annual IEEE India Conference (INDICON), 2015. 
 16. “Changes in EEG when moving from an eyes-closed to an eyes-open ... - nal,” Changes in EEG when moving from an eyes-closed to an eyes-open resting condition. Available: https://dspace.nal.gov.au/xmlui/bitstream/handle/123456789/1084/Development%20of%20frontal%20EEG%20differences%20between%20eyes-closed%20and%20eyes-open%20resting%20conditions%20in%20children%20data%20from%20a%20single-channel%20dry-sensor%20portable%20device.pdf?sequence=1. 
-17. 
+17. González Mejías, J. (2022). Funcionamiento de ondas beta occipital de docentes en formación al hablar en público. Universidad de Valladolid.
 18. J. Molina del Río, M. A. Guevara, M. Hernández González, R. M. Hidalgo Aguirre, and M. A. Cruz Aguilar, “EEG correlation during the solving of simple and complex logical–mathematical problems,” Cognitive, Affective, &amp; Behavioral Neuroscience, vol. 19, no. 4, pp. 1036–1046, 2019. 
