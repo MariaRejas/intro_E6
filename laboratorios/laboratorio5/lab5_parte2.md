@@ -149,7 +149,8 @@ a) Ojos cerrados vs ojos abiertos: Para analizar el procesamiento visual, las re
 <p>
 <img width="500" height="400" src="https://user-images.githubusercontent.com/89707127/233773525-d2cf0096-fd0e-42ad-afaa-08bceeb9edba.png">
 <p>
-En la siguiente gráfica se compara y analiza la FFT de los canales involucrados en la percepción visual: 1 (Fp1), 2 (Fp2), 7 (O7) y 8 (O8) con ojos cerrados (EC) y abiertos (EO). 
+En la siguiente gráfica se compara y analiza la FFT de los canales involucrados en la percepción visual: 1 (Fp1), 2 (Fp2), 7 (O7) y 8 (O8) con ojos cerrados (EC) y abiertos (EO).</a> 
+
 * Ondas delta (δ): Se observa una mayor densidad espectral de potencia en el canal 8 con ojos cerrados (color rojo).
 * Ondas theta (Ө): Se observa una mayor densidad espectral de potencia en el canal 8 con ojos cerrados (color rojo).
 * Ondas alpha (α): Se observa una mayor densidad espectral de potencia en el canal 8 con ojos cerrados (color rojo) y en el canal 2 con ojos cerrados (color anaranjado).
