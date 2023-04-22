@@ -108,12 +108,12 @@ Figura 10.Colocación de los electrodos en el participante según  el sistema 10
 
 ## **Ploteo de la señal en Python** <a name="id15"></a>
 
-a)Con los ojos cerrados
-
+a) Con los ojos cerrados
 <p align="center">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707127/233770786-0b27e7c0-90d4-4539-bcb7-3a5944c2d159.jpeg">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233766532-87d26b98-41de-485b-a43e-1ea816f9bf19.jpeg">
-     
 </p>
+
 Análisis:
 <p align="justify">
 En este la señal oscila su amplitud entre 620 y 430 con algunos picos que superan los 700. En su análisis por frecuencias encontramos una mayor amplitud entre 0-25 Hz.
