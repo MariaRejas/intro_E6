@@ -139,6 +139,10 @@ Figura 10.Colocación de los electrodos en el participante según  el sistema 10
 ## **Ploteo de la señal en Python** <a name="id15"></a>
 
 a)Con los ojos cerrados
+
+<p align="center">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233766532-87d26b98-41de-485b-a43e-1ea816f9bf19.jpeg">
+     
 </p>
 Análisis:
 <p align="justify">
@@ -147,10 +151,22 @@ Los ritmos que destacan son principalmente los beta indicando una mayor activida
 </p>
 b)Con los ojos abiertos y cerrados cada 5 segundos
 </p>
+<p align="center">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233766561-310c06c0-8c28-4466-b2f5-8c9dcf0af332.jpeg">
+    
+
+     
 c)Tras realizar un problema matemático
 </p>
+<p align="center">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233766624-a48657ac-d4d7-4865-8779-f78acad29e2b.jpeg">
+     
 d)Tras realizar un ejercicio simple
 </p>
+<p align="center">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/55772705/233766597-d34e4430-1160-4f71-bf86-570f917f975e.jpeg">
+    
+
 <p align="justify">
 En el análisis por frecuencias encontramos una alta actividad en las frecuencias de 0.4-4 Hz y de 15 a 20 Hz lo que indicaría una mayor presencia de ondas delta y beta 2. La presencia de ondas beta 2 indicaría la alta actividad por parte del lóbulo frontal encargado de funciones cognitivas, al estar sometido a una tarea altamente compleja. Sin embargo, durante las experimentación el voluntario tampoco realizó el problema de forma completamente mental debido a que lo hizo hablando con voz alta. Asimismo, casi al final del ejercicio este fue interrumpido. A pesar de ello incluso en la gráfica Amplitud vs. Con el tiempo son visibles los picos de actividad debido a la pregunta compleja. 
 </p>
