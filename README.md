@@ -123,5 +123,6 @@ Como la señal emitida por el electromiograma está en el orden de los mV se tie
   - [Laboratorio 4](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/laboratorio4/lsb4.md) : ECG
   - [Laboratorio 5](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/laboratorio5/lsb5.md) : EEG
   - [Laboratorio 6](https://github.com/MariaRejas/intro_E6/tree/main/laboratorios/laboratorio6)
+  - [Laboratorio 7](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/Laboratorio%207/lab7.md)
 ```python
 print("Hola, Biomédicos :D")
