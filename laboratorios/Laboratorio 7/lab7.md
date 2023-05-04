@@ -24,7 +24,9 @@ A continuación presentamos las gráficas obtenidas:
   
 - Filtro IIR (Butterworth): Es un filtro que no presenta rizos; es decir, no introduce distorsiones en las frecuencias dentro de la banda de paso. Asimismo, como queremos preservar la forma de la onda de la señal este filtro es el indicado, ya que, presenta una fase lineal en la banda de paso, además de su alta capacidad de atenuación de las frecuencias no deseadas.
 
-- Filtro FIR 1 (Hamming): El diseño de filtros hamming en python no es complejo. Este tipo de filtro no presenta oscilaciones en la respuesta en frecuencia y es posible controlar los parámetros de este de forma precisa. Asimismo, la pendiente en la banda de paso no es demasiada como para que deje de filtrar señales a frecuencias no deseada. Además, la atenuación de las señales de frecuencias más altas es lo suficiente pequeña en relación con la región de transición. Es decir, esta región no es muy grande comparada con otros tipos de filtros FIR, y la atenuación es suficiente para que las señales filtradas no se muestren
-  
+- Filtro FIR 1 (Hamming): El diseño de filtros hamming en python no es complejo. Este tipo de filtro no presenta oscilaciones en la respuesta en frecuencia y es posible controlar los parámetros de este de forma precisa. Asimismo, la pendiente en la banda de paso no es demasiada como para que deje de filtrar señales a frecuencias no deseada. Además, la atenuación de las señales de frecuencias más altas es lo suficiente pequeña en relación con la región de transición. Es decir, esta región no es muy grande comparada con otros tipos de filtros FIR, y la atenuación es suficiente para que las señales filtradas no se muestren.
+
+- Filtro FIR 2 (Blackman): El filtro blakman tiene una caida mas pronunciada a comparación del Hamming o Hanning, esto quiere decir que su ancho de banda es menor al de los otros. Por lo que permitiria aumentar la resolución de una región mas especifica de la señal asi como disminuir la filtración espectral.
+
 </p>
   
