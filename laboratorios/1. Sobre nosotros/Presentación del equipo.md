@@ -119,10 +119,13 @@ Como la señal emitida por el electromiograma está en el orden de los mV se tie
   -  Julissa Venancio - julissa.venancio@upch.pe
 
 ## Laboratorios <a name="id1"></a>
-  - [Laboratorio 3](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/lsab3/entregable3.md) : EMG
-  - [Laboratorio 4](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/laboratorio4/lsb4.md) : ECG
-  - [Laboratorio 5](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/laboratorio5/lsb5.md) : EEG
-  - [Laboratorio 6](https://github.com/MariaRejas/intro_E6/tree/main/laboratorios/laboratorio6)
-  - [Laboratorio 7](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/Laboratorio%207/lab7.md)
+  - [Laboratorio 1](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/1.%20Sobre%20nosotros/Presentaci%C3%B3n%20del%20equipo.md) : Presentación del equipo
+  - [Laboratorio 2](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/2.%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20y%20graficaci%C3%B3n%20en%20arduino/Se%C3%B1ales%20adquiridas%20con%20arduino.md) : Adquisición de señales y graficación en arduino
+  - [Laboratorio 3](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/3.%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Se%C3%B1al%20EMG.md) : Adquisición de señales EMG
+  - [Laboratorio 4](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/4.%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Se%C3%B1al%20ECG.md) : Adquisición de señales ECG
+  - [Laboratorio 5](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/5.%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Se%C3%B1ales%20EEG%20-%20parte%201.md) : Adquisición de señales EEG
+  - [Laboratorio 6](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Dataset%20de%20se%C3%B1ales%20ECG.ipynb) : Ploteo de señal ECG en python
+  - [Laboratorio 7](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/7.%20Filtros%20IIR%20y%20FIR/Filtro%20IIR%20y%20FIR%20de%20las%20se%C3%B1ales%20ECG.md) : Filtros IIR y FIR
+  - [Laboratorio 8]() : Tratamiento de la señal ECG
 ```python
 print("Hola, Biomédicos :D")
