@@ -126,6 +126,6 @@ Como la señal emitida por el electromiograma está en el orden de los mV se tie
   - [Laboratorio 5](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/5.%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Se%C3%B1ales%20EEG%20-%20parte%201.md) : Adquisición de señales EEG
   - [Laboratorio 6](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Dataset%20de%20se%C3%B1ales%20ECG.ipynb) : Ploteo de señal ECG en python
   - [Laboratorio 7](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/7.%20Filtros%20IIR%20y%20FIR/Filtro%20IIR%20y%20FIR%20de%20las%20se%C3%B1ales%20ECG.md) : Filtros IIR y FIR
-  - [Laboratorio 8]() : Tratamiento de la señal ECG
+  - [Laboratorio 8](https://github.com/MariaRejas/intro_E6/tree/main/laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG) : Tratamiento de la señal ECG
 ```python
 print("Hola, Biomédicos :D")
