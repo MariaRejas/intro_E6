@@ -16,7 +16,7 @@ Realizado el 19 de abril de 2023
      5.3 [Videos de la señal](#id7)
 
 # **Tabla de contenidos: Laboratorio 5 parte 2**
-[Laboratorio 5 parte 2](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/laboratorio5/lab5_parte2.md)</p>
+[Laboratorio 5 parte 2](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/5.%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Se%C3%B1ales%20EEG%20-%20parte2.md)</p>
 
           5.4 Ploteo de la señal en Python
           5.5 Archivos
