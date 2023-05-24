@@ -212,7 +212,7 @@ Figura 11. Ploteo de la señal en OpenSignal después de la actividad física
 
 
 ### **Archivos** <a name="id8"></a>
-Se encuentran en la carpeta del laboratorio 3.
+Se encuentran en la carpeta del laboratorio 4.
 #
 ### **Ploteo de la señal en Python** <a name="id9"></a>
 #
