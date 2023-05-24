@@ -103,8 +103,8 @@ El siguiente es el procedimiento para el estudio de conducción nerviosa motora 
 
 
 ### **Archivos** <a name="id7"></a>
-- [Documentos (.txt)](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/lsab3/Se%C3%B1al%20EMG%20Lab1.txt)
-- [Programa de ploteo en python](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/lsab3/se%C3%B1allab3.py)
+- [Documentos (.txt)](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/3.%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Se%C3%B1al%20EMG%20Lab1.txt)
+- [Programa de ploteo en python](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/3.%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Se%C3%B1al_EMG.py)
 
 
 ### **Ploteo de la señal en Python** <a name="id8"></a>
