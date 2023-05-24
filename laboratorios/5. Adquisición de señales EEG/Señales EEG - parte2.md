@@ -6,7 +6,7 @@ Realizado el 19 de abril de 2023
 </p>
 
 # **Tabla de contenidos**
-[Laboratorio 5 parte 1](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/laboratorio5/lsb5.md)</p>
+[Laboratorio 5 parte 1](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/5.%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Se%C3%B1ales%20EEG%20-%20parte%201.md)</p>
 
 5. Análisis de la señal EEG con BiTalino\
    5.4 [Ploteo de la señal en Python](#id8)\
