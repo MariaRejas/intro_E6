@@ -31,5 +31,12 @@ Se muestra que tenemos 105 muestras donde 35 de ellas son para cada uno de los o
 <p align="center"><img src="https://i.postimg.cc/KvMR1WV2/5.png" width="400" height="300"></p>
 </p>
 
+Tratamos de tener un train/test split de 80/20 ya que es lo recomendado por edgeimpulse. Seguimos con “Create impulse” donde seleccionamos las siguientes configuraciones para nuestro modelo de ML.
+</div>
+
+<p align="justify">
+<p align="center"><img src="https://i.postimg.cc/VLQbW1X6/6.png" width="400" height="300"></p>
+</p>
+
 
 
