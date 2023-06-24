@@ -109,3 +109,8 @@ En la siguiente tabla podemos ver los resultados obtenidos
 <p align="center"><img src="https://i.postimg.cc/YSY1H96J/19.png" width="600" height="400"></p>
 </p>
 
+El modelo nos da un 95,83% como resultado del modelo
+</div>
+<p align="justify">
+<p align="center"><img src="https://i.postimg.cc/J76HSZws/20.png" width="600" height="400"></p>
+</p>
