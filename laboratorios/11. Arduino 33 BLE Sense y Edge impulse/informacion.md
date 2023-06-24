@@ -114,3 +114,9 @@ El modelo nos da un 95,83% como resultado del modelo
 <p align="justify">
 <p align="center"><img src="https://i.postimg.cc/J76HSZws/20.png" width="600" height="600"></p>
 </p>
+Luego probamos con la cámara del arduino tinyML y realizamos algunos test en vivo para cada caso de objeto. A continuación mostramos un screenshot para el test en vivo con cámara de arduino para el caso de fb-con ruedas.
+
+</div>
+<p align="justify">
+<p align="center"><img src="https://i.postimg.cc/rmhzXXPB/21.png" width="600" height="600"></p>
+</p>
