@@ -17,6 +17,8 @@ Tratamos de tener un train/test split de 80/20 ya que es lo recomendado por edge
 <p align="center"><img src="https://i.postimg.cc/W4bNwY9t/3.png" width="800" height="300"></p>
 </p>
 
+Luego de generar los features de nuestro modelo obtenemos la siguiente gráfica, modelos ver que existe una dispersión en los resultados pero además podemos notar existe una tendencia a dónde se ubican en la gráfica las imagenes del fingerboard con ruedas, mientras el fingerboard sin ruedas y el auto de juguete se encuentran muy próximos.
+
 
 
 
