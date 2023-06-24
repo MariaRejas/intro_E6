@@ -14,7 +14,7 @@ Tratamos de tener un train/test split de 80/20 ya que es lo recomendado por edge
 </div>
 
 <p align="justify">
-<p align="center"><img src="https://i.postimg.cc/W4bNwY9t/3.png" width="600" height="300"></p>
+<p align="center"><img src="https://i.postimg.cc/W4bNwY9t/3.png" width="800" height="300"></p>
 </p>
 
 
