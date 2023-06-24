@@ -55,5 +55,5 @@ Recordemos que nosotros realizamos nuestro dataset con ayuda de un smartphone po
 Training sample fb-con ruedas
 </div>
 <p align="justify">
-<p align="center"><img src="https://i.postimg.cc/c1XLrST2/9.png" width="800" height="500"></p>
+<p align="center"><img src="https://i.postimg.cc/c1XLrST2/9.png" width="400" height="400"></p>
 </p>
