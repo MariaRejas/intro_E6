@@ -72,3 +72,13 @@ Recordemos que nosotros realizamos nuestro dataset con ayuda de un smartphone po
 
 Adicionalmente con ayuda del arduino tinyML tomamos diferentes imágenes para poder correrlo como test data debido a que para la Live classification usaremos esta misma cámara, buscamos comprobar la calidad de los resultados. 
 Encontramos que solo para el caso de fbconruedas-2, el modelo no puede determinar que objeto es, procederemos a adjuntar las imágenes:
+
+</div>
+<p align="justify">
+<p align="center"><img src="https://i.postimg.cc/yNVGJwLp/12.png" width="400" height="400"></p>
+</p>
+
+
+
+
+
