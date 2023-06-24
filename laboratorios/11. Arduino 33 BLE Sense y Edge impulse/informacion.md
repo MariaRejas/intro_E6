@@ -63,3 +63,9 @@ Recordemos que nosotros realizamos nuestro dataset con ayuda de un smartphone po
 <p align="justify">
 <p align="center"><img src="https://i.postimg.cc/gcSGGK2P/10.png" width="400" height="400"></p>
 </p>
+
+### **Training sample toy car** 
+</div>
+<p align="justify">
+<p align="center"><img src="https://i.postimg.cc/rpcB1dwJ/11.png" width="400" height="400"></p>
+</p>
