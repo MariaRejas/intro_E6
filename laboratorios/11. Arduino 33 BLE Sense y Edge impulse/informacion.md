@@ -123,13 +123,28 @@ Luego probamos con la cámara del arduino tinyML y realizamos algunos test en vi
 
 Mostraremos los casos con ayuda de videos.
 ### ***Video fb-con ruedas**
+<video src="https://user-images.githubusercontent.com/89707896/231572641-61aeebae-f397-4627-aebc-913bb9464915.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/89707896/231574043-44222491-d595-4d5a-9ac8-112adb20757c.mp4" width="200" /> 
+
+<video src="https://github.com/MariaRejas/intro_E6/assets/55772705/0f565868-d1d3-46a5-9fd3-4d2674729a6c" width="200" /> | <video src="https://user-images.githubusercontent.com/89707896/231574043-44222491-d595-4d5a-9ac8-112adb20757c.mp4" width="200" /> 
+
 
 Similar al screenshot que se muestra arriba podemos encontrar que para este test obtuvimos un 0.86 para fb-con ruedas, lo cual concuerda con el resultado esperado.
+
+
+
 
 ### ****Video fb-sin ruedas**
 
 En el video podemos apreciar que obtenemos un 0.95 para fb-sin ruedas, que concuerda con el resultado esperado.
 
+
+https://github.com/MariaRejas/intro_E6/assets/55772705/eefeee81-aa6f-4b9f-ae41-491160551ba5
+
+
 ### ****Video toy card**
+
+
+https://github.com/MariaRejas/intro_E6/assets/55772705/f61dc573-c719-47aa-875e-c98c3a904249
+
 
 Finalmente para este caso, obtenemos un 0.97 para toy card e igualmente que los dos ejemplos anteriores en caja con el resultado esperado.
