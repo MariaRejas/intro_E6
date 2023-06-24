@@ -1,7 +1,7 @@
 </div>
 
 <p align="justify">
-<p align="center"><img src="https://i.postimg.cc/SsgzGz7b/1.png" width="400" height="266"></p>
+<p align="center"><img src="https://i.postimg.cc/SsgzGz7b/1.png" width="600" height="266"></p>
 </p>
 Se muestra que tenemos 105 muestras donde 35 de ellas son para cada uno de los objetos (fingerboard con ruedas, sin ruedas y toycar)
 </div>
