@@ -21,7 +21,7 @@ Luego de generar los features de nuestro modelo obtenemos la siguiente gráfica,
 </div>
 
 <p align="justify">
-<p align="center"><img src="https://i.postimg.cc/T3B0rB2J/4.png" width="800" height="300"></p>
+<p align="center"><img src="https://i.postimg.cc/T3B0rB2J/4.png" width="300" height="300"></p>
 </p>
 
 Se muestra que tenemos 105 muestras donde 35 de ellas son para cada uno de los objetos (fingerboard con ruedas, sin ruedas y toy car).
