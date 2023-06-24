@@ -69,3 +69,5 @@ Recordemos que nosotros realizamos nuestro dataset con ayuda de un smartphone po
 <p align="justify">
 <p align="center"><img src="https://i.postimg.cc/rpcB1dwJ/11.png" width="400" height="400"></p>
 </p>
+
+Adicionalmente con ayuda del arduino tinyML tomamos diferentes imágenes para poder correrlo como test data debido a que para la Live classification usaremos esta misma cámara, buscamos comprobar la calidad de los resultados. 
