@@ -53,4 +53,7 @@ Luego de entrenar el modelo obtuvimos lo siguiente. Que teníamos una precisión
 Recordemos que nosotros realizamos nuestro dataset con ayuda de un smartphone por lo cual obtuvimos imágenes de la siguiente calidad: 
 
 Training sample fb-con ruedas
-
+</div>
+<p align="justify">
+<p align="center"><img src="https://i.postimg.cc/gkzLTsBF/fb-conruedas-mskate-imagen-2023-06-23-201025803-png-43i3shem-ingestion-6b5f56868-tpf46-jpg-43ikhr2a.png" width="400" height="500"></p>
+</p>
