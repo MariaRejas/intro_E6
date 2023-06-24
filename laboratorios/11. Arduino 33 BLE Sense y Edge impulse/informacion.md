@@ -28,7 +28,7 @@ Se muestra que tenemos 105 muestras donde 35 de ellas son para cada uno de los o
 </div>
 
 <p align="justify">
-<p align="center"><img src="https://i.postimg.cc/KvMR1WV2/5.png" width="800" height="300"></p>
+<p align="center"><img src="https://i.postimg.cc/KvMR1WV2/5.png" width="400" height="300"></p>
 </p>
 
 
