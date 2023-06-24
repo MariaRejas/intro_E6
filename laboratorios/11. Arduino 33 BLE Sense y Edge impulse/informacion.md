@@ -118,5 +118,5 @@ Luego probamos con la cámara del arduino tinyML y realizamos algunos test en vi
 
 </div>
 <p align="justify">
-<p align="center"><img src="https://i.postimg.cc/rmhzXXPB/21.png" width="600" height="600"></p>
+<p align="center"><img src="https://i.postimg.cc/rmhzXXPB/21.png" width="800" height="600"></p>
 </p>
