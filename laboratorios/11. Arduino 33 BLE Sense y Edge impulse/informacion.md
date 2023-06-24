@@ -93,3 +93,13 @@ Encontramos que solo para el caso de fbconruedas-2, el modelo no puede determina
 <p align="center"><img src="https://i.postimg.cc/TPLtWfr9/15.png" width="600" height="400"></p>
 </p>
 
+</div>
+<p align="justify">
+<p align="center"><img src="https://i.postimg.cc/8PpwmhRs/16.png" width="600" height="400"></p>
+</p>
+
+</div>
+<p align="justify">
+<p align="center"><img src="https://i.postimg.cc/yNZT8nHp/17.png" width="600" height="400"></p>
+</p>
+
