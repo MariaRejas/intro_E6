@@ -103,3 +103,9 @@ Encontramos que solo para el caso de fbconruedas-2, el modelo no puede determina
 <p align="center"><img src="https://i.postimg.cc/yNZT8nHp/17.png" width="600" height="400"></p>
 </p>
 
+En la siguiente tabla podemos ver los resultados obtenidos
+</div>
+<p align="justify">
+<p align="center"><img src="https://i.postimg.cc/YSY1H96J/19.png" width="600" height="400"></p>
+</p>
+
