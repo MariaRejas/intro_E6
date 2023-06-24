@@ -121,6 +121,7 @@ Luego probamos con la cámara del arduino tinyML y realizamos algunos test en vi
 <p align="center"><img src="https://i.postimg.cc/rmhzXXPB/21.png" width="800" height="600"></p>
 </p>
 
+Mostraremos los casos con ayuda de videos.
 ### ***Video fb-con ruedas**
 
 Similar al screenshot que se muestra arriba podemos encontrar que para este test obtuvimos un 0.86 para fb-con ruedas, lo cual concuerda con el resultado esperado.
