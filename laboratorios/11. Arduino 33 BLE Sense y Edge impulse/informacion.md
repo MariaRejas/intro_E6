@@ -75,7 +75,7 @@ Encontramos que solo para el caso de fbconruedas-2, el modelo no puede determina
 
 </div>
 <p align="justify">
-<p align="center"><img src="https://i.postimg.cc/yNVGJwLp/12.png" width="400" height="400"></p>
+<p align="center"><img src="https://i.postimg.cc/yNVGJwLp/12.png" width="600" height="400"></p>
 </p>
 
 
