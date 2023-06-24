@@ -58,3 +58,8 @@ Recordemos que nosotros realizamos nuestro dataset con ayuda de un smartphone po
 <p align="center"><img src="https://i.postimg.cc/c1XLrST2/9.png" width="400" height="400"></p>
 </p>
 
+### **Training sample fb-sinruedas** 
+</div>
+<p align="justify">
+<p align="center"><img src="https://i.postimg.cc/gcSGGK2P/10.png" width="400" height="400"></p>
+</p>
