@@ -88,4 +88,8 @@ Encontramos que solo para el caso de fbconruedas-2, el modelo no puede determina
 <p align="center"><img src="https://i.postimg.cc/XYvH4wqt/14.png" width="600" height="400"></p>
 </p>
 
+</div>
+<p align="justify">
+<p align="center"><img src="https://i.postimg.cc/TPLtWfr9/15.png" width="600" height="400"></p>
+</p>
 
