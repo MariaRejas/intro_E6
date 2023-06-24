@@ -47,7 +47,7 @@ Luego de generar los features de nuestro modelo obtenemos la siguiente gráfica,
 Luego de entrenar el modelo obtuvimos lo siguiente. Que teníamos una precisión del 100% y una pérdida del 0.17, así mismo podemos apreciar que la dispersión entre las clases es más notoria a comparación de la gráfica anterior.
 </div>
 <p align="justify">
-<p align="center"><img src="https://i.postimg.cc/CK1NpYP0/8.png" width="800" height="300"></p>
+<p align="center"><img src="https://i.postimg.cc/CK1NpYP0/8.png" width="400" height="300"></p>
 </p>
 
 
