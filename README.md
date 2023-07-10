@@ -39,14 +39,11 @@ Al realizar una revisión bibliográfica sobre la tecnología BCI para la mejora
 </p>
 
 
--**Principales hallazgos (español)**
+-**Principales hallazgos**
 <p align="justify">
-  
 Como propuesta de solución, se presentó una metodología basada en el análisis de señales de ojos abiertos y cerrados, así como de pestañeos cortos y largos. Se realizaron diferentes etapas, como la obtención y procesamiento de las señales EEG, la extracción de características y la clasificación de las señales para generar comandos de movimiento de la silla de ruedas. Además, se utilizó la entropía espectral de potencia como característica para distinguir los pestañeos cortos y largos. Se creó un dataset que almacenó la señal filtrada de cada ejercicio y los parámetros relevantes. En los resultados, se observó que el valor del parámetro "w" fue mayor cuando los participantes tenían los ojos cerrados, lo que permitió traducir estos patrones en acciones específicas. Asimismo, se demostró la efectividad del algoritmo en la detección de pestañeos cortos y largos mediante la característica de entropía espectral de potencia. En conclusión, aunque se encontraron artefactos en las señales debido al estado de los electrodos, la metodología propuesta mostró prometedoras diferenciaciones y resultados más óptimos en la clasificación de las señales de pestañeos.
 </p>
 
-
-  
 -**Problemática**
 <p align="justify">
 "La ausencia de un dataset que permita controlar una silla de ruedas de una forma sencilla y práctica por medio de señales EEG y sin ninguna interfaz inalámbrica, para poder mejorar la calidad de vida del paciente con la enfermedad de ELA."
