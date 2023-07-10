@@ -1,5 +1,7 @@
 # Bienvenidos al repositorio del Grupo 6 del curso : "Introducción a Señales Biomédicas"
-# Proyecto: ANÁLISIS DE SEÑALES DE ELECTROMIOGRAMA DE LA ESCLEROSIS LATERAL AMIOTRÓFICA
+# Proyecto: Analysis of EEG signals of blinking patterns in order to control a wheelchair for people with ALS
+# Proyecto: Análisis de señales EEG de patrones de parpadeo para controlar una silla de ruedas para personas con ELA
+
 <p align="center">
   <img width="500" height="400" src="https://github.com/MariaRejas/intro_E6/assets/89707896/ad74b0ff-496d-4e6c-b7b9-3e14765cac55">
  </p>
