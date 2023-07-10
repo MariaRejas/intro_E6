@@ -60,9 +60,11 @@ Jovenes entre 18 a 24 años de edad.
   
 -**Referencias:**
 <p align="justify">
-[1]“Amyotrophic lateral sclerosis (ALS) - Symptoms and causes,” Mayo Clinic, 2023. https://www.mayoclinic.org/diseases-conditions/amyotrophic-lateral-sclerosis/symptoms-causes/syc-20354022 (accessed Jul. 03, 2023).
-2021. doi:10.36255/exonpublications.amyotrophiclateralsclerosis.management.2021
+[1]“Amyotrophic lateral sclerosis (ALS) - Symptoms and causes,” Mayo Clinic, 2023. https://www.mayoclinic.org/diseases-conditions/amyotrophic-lateral-sclerosis/symptoms-causes/syc-20354022 (accessed Jul. 03, 2023).2021. doi:10.36255/exonpublications.amyotrophiclateralsclerosis.management.2021
+</p>
+<p align="justify">
 [2]J. J. Shih, D. J. Krusienski, and J. R. Wolpaw, “Brain-Computer Interfaces in Medicine,” vol. 87, no. 3, pp. 268–279, Mar. 2012, doi: https://doi.org/10.1016/j.mayocp.2011.12.008.
+</p>
 [3] L. Montesano, M. Diaz, S. Bhaskar y J. Minguez, Hacia un sistema de silla de ruedas inteligente para
 usuarios con parálisis cerebral, IEEE Transactions on Neural Systems and Rehabilitation Engineering,
 vol.18, pp.193- 202, 2010.
