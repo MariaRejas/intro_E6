@@ -35,12 +35,6 @@ Como propuesta de solución, se presentó una metodología basada en el análisi
 - **Publico objetivo:**
 Jovenes entre 18 a 24 años de edad.
 
-</p>
-*El presente proyecto busca obtener patrones de: “adelante”, “atrás”, “derecha”, “izquierda” que permitirían mover una silla de ruedas en pacientes con ELA. Para ello se adquirirá la señal EEG mediante BiTalino, se filtrará y clasificará en pestañeos cortos y largos, los cuales tienen distinta duración y rangos de voltaje. A partir de ciertas combinaciones de estas, se pueden correlacionar con comandos.*
-<p align="center">
-  <img width="400" height="200" src="https://github.com/MariaRejas/intro_E6/assets/89707896/921f606d-92cf-4772-ada3-d1497d7d63b8">
-  <img width="400" height="200" src="https://github.com/MariaRejas/intro_E6/assets/89707896/06dacf4f-0b79-4e2e-8d18-286cf323c8c8">
-</p>                        
 
 
 -**Referencias:**</p>
