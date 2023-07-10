@@ -21,7 +21,7 @@
 *Incapacidad de movilizarse adecuadamente por la debilitación muscular progresiva*
 
 - **Publico objetivo:**
-Jovenes entre 18 a 24 años de edad
+Jovenes entre 18 a 24 años de edad.
 
 </p>
 *El presente proyecto busca obtener patrones de: “adelante”, “atrás”, “derecha”, “izquierda” que permitirían mover una silla de ruedas en pacientes con ELA. Para ello se adquirirá la señal EEG mediante BiTalino, se filtrará y clasificará en pestañeos cortos y largos, los cuales tienen distinta duración y rangos de voltaje. A partir de ciertas combinaciones de estas, se pueden correlacionar con comandos.*
