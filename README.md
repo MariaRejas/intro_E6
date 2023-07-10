@@ -3,15 +3,18 @@
 # Proyecto: Análisis de señales EEG de patrones de parpadeo para controlar una silla de ruedas para personas con ELA
 
 <p align="center">
+  
   <img width="500" height="400" src="https://github.com/MariaRejas/intro_E6/assets/89707896/ad74b0ff-496d-4e6c-b7b9-3e14765cac55">
  </p>
 
 #### *Proyecto realizado por estudiantes de la carrera de Ingeniería Biomédica, pertenecientes a la Pontificia Universidad Católica del Perú (PUCP) y la Universidad Peruana Cayetano Heredia (UPCH), en el semestre 2023-1*
 <p align="justify">
+  
 -**Resumen :**
 La esclerosis lateral amiotrófica (ELA) es una enfermedad neurodegenerativa progresiva que afecta el control de los músculos voluntarios y carece de una cura conocida.[1] Las interfaces cerebro-computadora (BCI) han surgido como una solución potencial para mejorar la calidad de vida de los pacientes con ELA. [2] Se enfocó en el uso de señales de electroencefalograma (EEG) para desarrollar mecanismos de control de sillas de ruedas eléctricas. Se destacan tres estudios significativos, cada uno con enfoques y limitaciones únicas. El estudio de Montesano [3] implementa una interfaz de pantalla táctil, pero no fue adecuado para pacientes completamente paralizados. La investigación de Galán [4], que utilizó señales de EEG con 64 canales, obtuvo resultados de baja calidad para individuos paralíticos. El estudio de Tanaka [5], que empleó 15 electrodos, no fue adecuado para un uso práctico.
 </p>
 <p align="justify">
+  
 -**Características de la enfermedad ELA:**
   Enfermedad neurodegenerativa progresiva.
   - Prevalencia entre pacientes de 80 y 89 años [6].
@@ -25,27 +28,33 @@ La esclerosis lateral amiotrófica (ELA) es una enfermedad neurodegenerativa pro
 </p>
 
 <p align="justify">
+  
 -**Motivación:**
 Al realizar una revisión bibliográfica sobre la tecnología BCI para la mejora de calidad de vida para personas que sufren ELA se encontró el siguiente problema: "La ausencia de un dataset que permita controlar una silla de ruedas de una forma sencilla y práctica por medio de señales EEG y sin ninguna interfaz inalámbrica, para poder mejorar la calidad de vida del paciente con la enfermedad de ELA."
 </p>
 
 <p align="justify">
+  
 -**Principales hallazgos (español)**
 Como propuesta de solución, se presentó una metodología basada en el análisis de señales de ojos abiertos y cerrados, así como de pestañeos cortos y largos. Se realizaron diferentes etapas, como la obtención y procesamiento de las señales EEG, la extracción de características y la clasificación de las señales para generar comandos de movimiento de la silla de ruedas. Además, se utilizó la entropía espectral de potencia como característica para distinguir los pestañeos cortos y largos. Se creó un dataset que almacenó la señal filtrada de cada ejercicio y los parámetros relevantes. En los resultados, se observó que el valor del parámetro "w" fue mayor cuando los participantes tenían los ojos cerrados, lo que permitió traducir estos patrones en acciones específicas. Asimismo, se demostró la efectividad del algoritmo en la detección de pestañeos cortos y largos mediante la característica de entropía espectral de potencia. En conclusión, aunque se encontraron artefactos en las señales debido al estado de los electrodos, la metodología propuesta mostró prometedoras diferenciaciones y resultados más óptimos en la clasificación de las señales de pestañeos.
 </p>
 
 <p align="justify">
+  
 -**Problemática**
 "La ausencia de un dataset que permita controlar una silla de ruedas de una forma sencilla y práctica por medio de señales EEG y sin ninguna interfaz inalámbrica, para poder mejorar la calidad de vida del paciente con la enfermedad de ELA."
 </p>
 
 <p align="justify">
+  
 - **Publico objetivo:**
 Jovenes entre 18 a 24 años de edad.
 </p>
 
 <p align="justify">
--**Referencias:**</p>
+  
+-**Referencias:**
+
 [1]“Amyotrophic lateral sclerosis (ALS) - Symptoms and causes,” Mayo Clinic, 2023. https://www.mayoclinic.org/diseases-conditions/amyotrophic-lateral-sclerosis/symptoms-causes/syc-20354022 (accessed Jul. 03, 2023).
 2021. doi:10.36255/exonpublications.amyotrophiclateralsclerosis.management.2021
 [2]J. J. Shih, D. J. Krusienski, and J. R. Wolpaw, “Brain-Computer Interfaces in Medicine,” vol. 87, no. 3, pp. 268–279, Mar. 2012, doi: https://doi.org/10.1016/j.mayocp.2011.12.008.
