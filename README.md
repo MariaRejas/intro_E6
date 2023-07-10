@@ -65,28 +65,45 @@ Jovenes entre 18 a 24 años de edad.
 <p align="justify">
 [2]J. J. Shih, D. J. Krusienski, and J. R. Wolpaw, “Brain-Computer Interfaces in Medicine,” vol. 87, no. 3, pp. 268–279, Mar. 2012, doi: https://doi.org/10.1016/j.mayocp.2011.12.008.
 </p>
+<p align="justify">
 [3] L. Montesano, M. Diaz, S. Bhaskar y J. Minguez, Hacia un sistema de silla de ruedas inteligente para
 usuarios con parálisis cerebral, IEEE Transactions on Neural Systems and Rehabilitation Engineering,
 vol.18, pp.193- 202, 2010.
+</p>
+<p align="justify">
 [4] F. Gal'an, M. Nuttin, E. Lew, P. W. Ferrez, G. Vanacker, J. Philips y J. d. R. Mill'an, Una silla de
 ruedas accionada por el cerebro: interfaces cerebro-computadora asíncronas y no invasivas para el control
 continuo de robots, Neurofisiología clínica, vol.119, pp.2159-2169, 2008.
+</p>
+<p align="justify">
 [5] K. Tanaka, K. Matsunaga y H. O. Wang, Control basado en electroencefalograma de una silla de
 ruedas eléctrica, IEEE Trans. on Robotics, vol.21, no.4, pp.762-766, 2005.
+</p>
+<p align="justify">
 [6] E.Gakidou et al.,”Global, regional and national comparative risk assessment of 84 behavioural, environmental and 
 occupational and metabolic risks or clusters of risks,1990-2016: A systematic analysis for the Global Burden of Disease Study 
-2016”, Lancet, vol. 390, no. 10100, pp. 1345-1422,2017,doi:10.1016/S0140-6736(17)32366-8
+2016”, Lancet, vol. 390, no. 10100, pp. 1345-1422,2017,doi:10.1016/S0140-6736(17)32366-8.
+</p>
+<p align="justify">  
 [7] A. Verma, “Clinical manifestation and management of amyotrophic lateral sclerosis,” Amyotrophic Lateral Sclerosis, pp. 1–14, 
-2021. doi:10.36255/exonpublications.amyotrophiclateralsclerosis.management.2021 
+2021. doi:10.36255/exonpublications.amyotrophiclateralsclerosis.management.2021.
+</p>
+<p align="justify">  
 [8] Moro and P. Fondazione, “Global, regional, and national burden of motor neuron diseases 1990-2016: a systematic analysis 
 for the Global Burden of Disease Study 2016 GBD 2016 Motor Neuron Disease Collaborators*,” Lancet Neurol, vol. 17, pp. 
 1083–97, 2018.
+</p>
+<p align="justify">  
 [9] Esclerosis lateral amiotrófica ELA / Enfermedad de Charcot / Enfermedad de Lou Gherig / Enfermedad de la motoneurona, 
 2nd ed. United Kingdom: OrphaNet, 2021, p. pag 1.
 https://neuroalianza.org/wp-content/uploads/Informe-NeuroAlianza-Completo-v-5-optimizado.pdf
+</p>
+<p align="justify">  
 [10] E. Gakidou et al., “Global, regional, and national comparative risk assessment of 84 behavioural, environmental and 
 occupational, and metabolic risks or clusters of risks, 1990-2016: A systematic analysis for the Global Burden of Disease Study 
 2016,” Lancet, vol. 390, no. 10100, pp. 1345–1422, 2017, doi: 10.1016/S0140-6736(17)32366-8.
+</p>
+<p align="justify">  
 [11] ALS Facts and Statistics – ALS News Today. (2017). ALS News Today. 
 https://alsnewstoday.com/als-facts-statistics/#:~:text=More%20than%20half%20of%20all,live%2020%20years%20or%20more.
 </p>
