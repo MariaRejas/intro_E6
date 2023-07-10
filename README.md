@@ -11,6 +11,8 @@
 
 Si desea saber mas del equipo puede entrar al siguiente enlace:https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/1.%20Sobre%20nosotros/Presentaci%C3%B3n%20del%20equipo.md
 
+publicacion del informe :https://paperswithcode.com/paper/analysis-of-eeg-signals-of-blinking-patterns
+
 
   
 **RESUMEN:**
