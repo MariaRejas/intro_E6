@@ -9,6 +9,8 @@
 
 #### *Proyecto realizado por estudiantes de la carrera de Ingeniería Biomédica, pertenecientes a la Pontificia Universidad Católica del Perú (PUCP) y la Universidad Peruana Cayetano Heredia (UPCH), en el semestre 2023-1*
 
+Si desea saber mas del equipo puede entregar al siguiente enlace:https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/1.%20Sobre%20nosotros/Presentaci%C3%B3n%20del%20equipo.md
+
 
   
 -**RESUMEN:**
