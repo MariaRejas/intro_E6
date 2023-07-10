@@ -7,10 +7,10 @@
  </p>
 
 #### *Proyecto realizado por estudiantes de la carrera de Ingeniería Biomédica, pertenecientes a la Pontificia Universidad Católica del Perú (PUCP) y la Universidad Peruana Cayetano Heredia (UPCH), en el semestre 2023-1*
-
+<p align="justify">
 -**Resumen :**
 La esclerosis lateral amiotrófica (ELA) es una enfermedad neurodegenerativa progresiva que afecta el control de los músculos voluntarios y carece de una cura conocida.[1] Las interfaces cerebro-computadora (BCI) han surgido como una solución potencial para mejorar la calidad de vida de los pacientes con ELA. [2] Se enfocó en el uso de señales de electroencefalograma (EEG) para desarrollar mecanismos de control de sillas de ruedas eléctricas. Se destacan tres estudios significativos, cada uno con enfoques y limitaciones únicas. El estudio de Montesano [3] implementa una interfaz de pantalla táctil, pero no fue adecuado para pacientes completamente paralizados. La investigación de Galán [4], que utilizó señales de EEG con 64 canales, obtuvo resultados de baja calidad para individuos paralíticos. El estudio de Tanaka [5], que empleó 15 electrodos, no fue adecuado para un uso práctico.
-
+</p>
 -**Características de la enfermedad ELA:**
   Enfermedad neurodegenerativa progresiva.
   - Prevalencia entre pacientes de 80 y 89 años [6].
