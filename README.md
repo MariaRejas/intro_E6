@@ -21,14 +21,23 @@ La esclerosis lateral amiotrófica (ELA) es una enfermedad neurodegenerativa pro
 
 <p align="justify">
   Enfermedad neurodegenerativa progresiva.
+  </p>
   - Prevalencia entre pacientes de 80 y 89 años [6].
+  </p>
   - Etiología: Factores genéticos y hereditarios, pero aún se   desconoce. 
+  </p>
   - Patogenia: Degeneración y atrofia de neuronas motoras y debilidad muscular progresiva. 
+  </p>
   - Manifestaciones clínicas: debilidad muscular, afecta la deglución [7].
-  - Incidencia estandarizada: 1.68 por 100 000 personas al año [8]
-  - Mortalidad (2016): 49 muertes [9]
-  - 3° enfermedad neurodegenerativa con mayor incidencia [10]
-  - Promedio de vida: 2 - 5 años desde el diagnóstico [11]
+  </p>
+  - Incidencia estandarizada: 1.68 por 100 000 personas al año [8].
+  </p>
+  - Mortalidad (2016): 49 muertes [9].
+  </p>
+  - 3° enfermedad neurodegenerativa con mayor incidencia [10].
+  </p>
+  - Promedio de vida: 2 - 5 años desde el diagnóstico [11].
+
 </p>
 
 
