@@ -1,5 +1,5 @@
 ## Bienvenidos al repositorio del Grupo 6 del curso : "Introducción a Señales Biomédicas
-# Proyecto: Analysis of EEG signals of blinking patterns in order to control a wheelchair for people with ALS
+# Project: Analysis of EEG signals of blinking patterns in order to control a wheelchair for people with ALS
 # Proyecto: Análisis de señales EEG de patrones de parpadeo para controlar una silla de ruedas para personas con ELA
 
 <p align="center">
